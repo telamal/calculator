@@ -21,4 +21,3 @@ steps:
   displayName: 'npm install and build'
   npm test
    displayName: 'npm install, build, and test'
-  
